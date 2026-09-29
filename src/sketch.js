@@ -6,7 +6,7 @@ const GROUND_Y = 430;
 const RAIN_DROP_COUNT = 120;
 const MIN_RAIN_SPEED = 1;
 const MAX_RAIN_SPEED = 12;
-const RAIN_SPEED_STEP = 1;
+const RAIN_SPEED_STEP = 2;
 
 const MIN_WIND_SPEED = -3;
 const MAX_WIND_SPEED = 3;
