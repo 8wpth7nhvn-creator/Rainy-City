@@ -43,5 +43,4 @@ Open `index.html` in een webbrowser om de animatie te bekijken.
 Voor de beste ervaring kan het project worden geopend met Live Server in Visual Studio Code.
 
 ## Auteur
-
 Modar Abou Shahin
